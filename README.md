@@ -1,4 +1,4 @@
-# highschool-projects - Carrot hunt
+# highschool-projects - "Carrot hunt"
 
 The "Carrot hunt" / "Duracell" game is my first Python project ever: I started it when I was 13 and finished it in Highschool.
 
