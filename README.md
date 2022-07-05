@@ -1,6 +1,6 @@
 # highschool-projects - "Firodilatte"
 
-The "fiordilatte" website was created during my last highschool year (12th grade) for the Project part of the Professional Certificate, a mandatory section of the Romanian Baccalaureat Exam.
+The "fiordilatte" website was created during my last highschool year (12th grade) for the Project part of the Professional Certificate, a mandatory section of the Romanian Baccalaureate Exam.
 
 The Certificate of Professional Skills in Computer Science (the exam that I took due to the Mathematics - Computer Science field of study that I chose as my Highschool specialisation) consists of two parts, both of which I successfully passed with an overall grade of 10/10: a Practical Test (C++, MySQL and Microsoft Word) and a Project (this website, in my case).
 
