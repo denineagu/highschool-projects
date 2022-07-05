@@ -1,4 +1,4 @@
-# highschool-projects
+# highschool-projects - "Firodilatte"
 
 The "fiordilatte" website was created during my last highschool year (12th grade) for the Project part of the Professional Certificate, a mandatory section of the Romanian Baccalaureat Exam.
 
