@@ -8,3 +8,5 @@ Thus, the website attached in this section resembles my work for the aforementio
 
 I also attached the documentation for this project, where all the background information and explanations can be found.
 The documentation can be found here: https://drive.google.com/file/d/18FXiubP5q8enJ0_nP_PBIUH2HXvkABYx/view?usp=sharing .
+
+*This repository branch only contains the code itself; if needed, the media used in the project can be found here: https://drive.google.com/drive/folders/11KiTeJEvjZnEPf9j_U-N7Z6_o431I_v2?usp=sharing .
